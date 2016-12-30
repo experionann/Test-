@@ -1,0 +1,61 @@
+
+.header {
+    width: 98% !important;
+    margin: 1% !important;
+    padding-right: 15px; 
+    padding-left: 15px; 
+}
+
+#id-message{
+    display:none;
+}
+
+#container{
+     background-color: rgba(19, 35, 47, 0.9);
+    color: #1ab188;
+}
+
+
+.form-control{
+    
+    color: #555;
+    background-color: #acacac;
+   
+    border: 1px solid #ccc;
+ 
+}
+
+#edit{
+    background-color: rgba(19, 35, 47, 0.9);
+    color: #1ab188;
+}
+
+#clear{
+    background-color: rgba(19, 35, 47, 0.9);
+    color: #1ab188;
+}
+
+#submit{
+    background-color: rgba(19, 35, 47, 0.9);
+    color: #1ab188;
+}
+
+#confirm{
+    background-color: rgba(19, 35, 47, 0.9);
+    color: #1ab188;
+}
+
+
+#form .form-control {
+    display: block;
+    width: 88%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: black;
+    background-color: #acacac;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
